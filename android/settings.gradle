@@ -1,0 +1,3 @@
+rootProject.name = 'parentalert_1950'
+
+include ':app'
